@@ -9,3 +9,17 @@ def greeting():
     print("Nice to meet you")
 
 greeting()
+
+
+#4.13.4: Functions and Variables
+# Connor
+#2.11.19
+
+x = 406
+
+def print_something():
+    x = 3
+    print('\r\n', x)
+
+print('\r\n', x)
+print_something()
