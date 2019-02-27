@@ -83,3 +83,15 @@ def print_multiple_times(string, times):
 
 
 print_multiple_times('Hey there Computer Scientist' ,10)
+
+
+
+# 4.14.4: Name and Age
+# Connor
+# 2.18.19
+
+def name_and_age(name, age):
+	print('Hi, my name is', name, 'and i am', age, 'years old!')
+
+name_and_age('Mike', 33)
+name_and_age('Zane', 18)
