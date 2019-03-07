@@ -105,3 +105,20 @@ name_and_age('Zane', 18)
 def print_two_numbers(x, y = 20):
 	print('First number: ', x)
 	print('Second number: ' + str(y))
+
+
+# 4.16.4: Enter Name & Age using the Try & Except Rule
+# Connor
+# 2.20.19
+
+# name = input('Enter your name: ')
+#
+# age = -1
+#
+# try:
+# 	age = int(input('Enter your age: '))
+# except ValueError:
+# 	print('\n''That was not an Integer for your age')
+#
+# print('Name: ', name)
+# print('Age:', age)
